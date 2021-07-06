@@ -77,5 +77,5 @@ SearchAdzuna.getJobs(search)
     //display errors function
   });
 
-  });
+  };
 
